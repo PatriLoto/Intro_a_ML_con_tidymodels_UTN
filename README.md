@@ -9,7 +9,7 @@ Fecha y Lugar
 
 🗓️ Miércoles 29 de septiembre del 2020  
 ⏰ Horario: 15 a 17 hs.
-:home: [Jornadas Universitarias de Tecnología e Informática 2020 - UTN FRRE] (http://juc.frre.utn.edu.ar/)
+:world: [Jornadas Universitarias de Tecnología e Informática 2020 - UTN FRRE](http://juc.frre.utn.edu.ar/)
 
 
 Descripción
@@ -90,15 +90,14 @@ Para la elaboración tanto del material teórico como de los ejercicios práctic
 
 - Free book [Hands on Machine Learning with R](https://bradleyboehmke.github.io/HOML/)
 
+    
+
+:books: Cheatseets and books
+============================================================
+
 - [Useful R packages](https://github.com/rstudio/RStartHere)
 
 - [Introduction to Machine Learning](https://ldi.upenn.edu/sites/default/files/Introduction-to-Machine-Learning.pdf)
-    
-
-:books: Material Extra
-============================================================
-
-- Max Kuhn & Johnson Kjell. [Feature Engineering](http://www.feat.engineering/)
 
 - Max Kuhn & Johnson Kjell.  [Applied Predictive Modeling](https://link.springer.com/book/10.1007/978-1-4614-6849-3)
 
