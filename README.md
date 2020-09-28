@@ -9,7 +9,6 @@ Fecha y Lugar
 
 🗓️ Miércoles 29 de septiembre del 2020  
 ⏰ Horario: 15 a 17 hs.
-
 🏨 [Jornadas Universitarias de Tecnología e Informática 2020 - UTN FRRE](http://juc.frre.utn.edu.ar/)
 
 
